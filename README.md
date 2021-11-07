@@ -16,3 +16,5 @@ either it will close on the start
 same design as zip video loader i tryed
 
 use it for ur "fake loader"
+
+https://www.youtube.com/watch?v=OoqczgotSGk original loader video
